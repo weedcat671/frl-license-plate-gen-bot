@@ -13,6 +13,10 @@ git clone https://github.com/weedcat671/frl-license-plate-gen-bot
 2) Go to the repository folder and download the dependencies for python by pip3
 
 ```
+pip install -r requirements.txt
+```
+or
+```
 pip3 install -r requirements.txt
 ```
 
@@ -27,6 +31,10 @@ stoprequest
 
 5) Run bot
 
+```
+python bot.py
+```
+or
 ```
 python3 bot.py
 ```
